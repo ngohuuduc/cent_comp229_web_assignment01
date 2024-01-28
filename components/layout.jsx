@@ -1,3 +1,10 @@
+/*
+filename: layout.jsx
+Student Name: Duc Ngo
+Student ID : 301221389
+Date : 28 Jan 2024
+*/
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../src/assets/Logo.png';
