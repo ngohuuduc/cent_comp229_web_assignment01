@@ -12,6 +12,10 @@ Date : 28 Jan 2024
 //import project5 from '../src/assets/project5.jpg';
 //import project6 from '../src/assets/project6.jpg';
 //import { Link } from 'react-router-dom';
+
+import daservice from '../src/assets/data-warehousing1.png';
+import odoo from '../src/assets/odoo erp.png';
+
 import '../src/index.css'
 import '../src/project.css'
 export default function Project() {
@@ -19,43 +23,20 @@ export default function Project() {
      
      <section id="works">
          
-          <h2 className="worksTitle">My Previous "Personal" Project</h2>
+          <h2 className="worksTitle">Data Analytics Consultings</h2>        
+          <span className="worksDesc"> Data Warehouse and Data Pipeline </span> 
+          <p> I have completed a number of full-stack BI projects which includes building Data Warehouse and building pipelines to captures multiple sourses of data and centralised them into a Single Data warehouse  </p>
+          <p>  Afterward, users have tools and technique to build data model and then later visualise or report using Dashboard and Data Visualisation tools such as Tableau, PowerBI. </p>
+          <p><img src={daservice} class="center" /></p>
 
-          <span className="worksDesc"> All of my professional project are not listed here due to Signed NDA and Employment Contract.
-               </span> 
-          <span className="worksDesc">However, my freelance project can be found below
-          </span> 
-               <a href="https://parainsight.com/category/case-studies/">Parainsight's Case Study</a>
-          <br></br>
 
-          <span className="worksDesc">However, my freelance project can be found below </span> 
-
-          <br></br>
-          <br></br>
-          <span className="worksDesc">However, my freelance project can be found below </span> 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/HM6iNO8uugQ?si=Yf9kpwYnslk09kQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-          <br></br>
-
-          <span className="worksDesc">However, my freelance project can be found below </span> 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/RhjG8lQ2mJI?si=0Rk0hpr6MI6MbNlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-          <br></br>
+          <h2 className="worksTitle">Odoo ERP Consulting</h2>        
+          <span className="worksDesc"> ERP Consulting in Sales, Accounting(IFRS), Inventory, Manufacturing  </span> 
+          <p><img src={odoo} class="center" /></p>
+          <p> ERP will be the transactional system that helps your business to operate on a Single System, eliminate all the needs of integration or running on multiple systems  </p>
           
-          <span className="worksDesc">However, my freelance project can be found below </span> 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/Nczn_urR7Qo?si=i5gudWAodCoZ_HLK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
           <br></br>
 
-          <span className="worksDesc">However, my freelance project can be found below </span> 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/QrdHTQt6Qw0?si=G-V9dmXnmMPo9d49" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-          <br></br>
-
-          <span className="worksDesc">However, my freelance project can be found below </span> 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/bZv0PJhkBIY?si=_R1cskmC5jxJJuVn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-          <br></br>
-
-          <span className="worksDesc">However, my freelance project can be found below </span> 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/T1qEM8DiA_0?si=DxTeQmbiD-DyEC5v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-     
      </section>
     
 
