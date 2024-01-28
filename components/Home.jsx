@@ -1,7 +1,7 @@
 //import BBG from '../src/assets/BBG.jfif';
 import portrait from '../src/assets/portrait.jpg'
-import hire from '../src/assets/hire.jpg';
-import { Link } from 'react-router-dom';
+// import hire from '../src/assets/hire.jpg';
+//import { Link } from 'react-router-dom';
 import '../src/index.css'
 
 export default function Home() {
@@ -24,15 +24,12 @@ export default function Home() {
 
           <Link><button className="btn"><img src={hire} alt="Hire me" width="100px" height="100px"/></button></Link>
           */}
-          <p>&nbsp;</p>
-
-               <p>Hello, I&#39;m Duc</p>
+          <body> <p>Hello, I&#39;m Duc</p>
 
                <p>Data Analyst with Finance &amp; Project Management background. Experienced in multinational projects at different scale, complexity &amp; diversity.</p>
-
-
-          <p><img src={portrait} /></p>
-
+               <p><img src={portrait} class="center" /></p>
+           </body>
+          
           </div>
           
      </section>
