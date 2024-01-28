@@ -43,7 +43,7 @@
     margin: 1rem;
     padding: 1.5rem 2rem;
     border-radius: 0.5rem;
-    background: grey;
+    background: rgb(0, 162, 255);
 }
 
 .skillBarImg{
@@ -51,6 +51,8 @@
     height: 6rem;
     width: 10rem;
     margin-right: 2rem;
+    background-color:white;
+
 }
 
 .skillBarText>p{
