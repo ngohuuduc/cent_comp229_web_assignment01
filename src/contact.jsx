@@ -6,7 +6,11 @@ Date : 28 Jan 2024
 */
 
 import '../src/contact.css'
+
+
 export default function Contact() {
+
+     
      return (
      <>
      <p>Contact</p>
@@ -23,13 +27,21 @@ export default function Contact() {
 				<label htmlFor="myEmail"> *Email: </label>
 				<input type="email" id="myEmail" name="myEmail" required="required" /> <br /> <br />
 				
-				<input type="submit" className="submit" value="Submit" /> <br />
+				<input type="submit" className="submit" value="Submit" /> 
+                    <button onclick="goToHomePage()">Go to Homepage</button>
+
+                         <script>
+                         function goToHomePage() {
+                              window.location.href = '/' 
+                         }
+                         </script>
+                    <br />
 					
 		
 		</form> <br></br>
-          <p><i>Call me on: <strong>888.555.5555 </strong></i></p>
- <p>facebook:www.xyz.facebook.com</p>
- <p>email:xyz@yahoo.com</p>
+          <p><i>Call me on: <strong> +65 90877658 </strong></i></p>
+          <p>Linkedin:www.xyz.facebook.com</p>
+          <p>email:xyz@yahoo.com</p>
      </>
      );
      }
