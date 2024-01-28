@@ -32,28 +32,28 @@ export default function Project() {
 
           <br></br>
           <br></br>
-          <span className="worksDesc">However, my freelance project can be found below </span> 
+          <span className="worksDesc">Cantaloupe Islands - Herbie Hancock</span> 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/HM6iNO8uugQ?si=Yf9kpwYnslk09kQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           <br></br>
 
-          <span className="worksDesc">However, my freelance project can be found below </span> 
+          <span className="worksDesc">You're the Universe - Brand New Heavies</span> 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/RhjG8lQ2mJI?si=0Rk0hpr6MI6MbNlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           <br></br>
           
-          <span className="worksDesc">However, my freelance project can be found below </span> 
+          <span className="worksDesc">The Red Cat - Dane Alderson </span> 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/Nczn_urR7Qo?si=i5gudWAodCoZ_HLK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
           <br></br>
 
-          <span className="worksDesc">However, my freelance project can be found below </span> 
+          <span className="worksDesc">Still a Friend of Mine - Incognito</span> 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/QrdHTQt6Qw0?si=G-V9dmXnmMPo9d49" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           <br></br>
 
-          <span className="worksDesc">However, my freelance project can be found below </span> 
+          <span className="worksDesc">Love Again - Dua Lipa </span> 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/bZv0PJhkBIY?si=_R1cskmC5jxJJuVn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           <br></br>
 
-          <span className="worksDesc">However, my freelance project can be found below </span> 
+          <span className="worksDesc">September - Earth, Winds & Fire</span> 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/T1qEM8DiA_0?si=DxTeQmbiD-DyEC5v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
      
      </section>
