@@ -21,7 +21,7 @@ export default function Project() {
          
           <h2 className="worksTitle">My Previous "Personal" Project</h2>
 
-          <span className="worksDesc"> All of my professional project are not listed here due to Signed NDA and Employment Contract.
+          <span className="worksDesc"> All of my professional project are not listed here due to legal obligation (Non Disclose Agreements and Employment Contract).
                </span> 
           <span className="worksDesc">My freelance projects can be found below in case studies below : 
           </span> 
