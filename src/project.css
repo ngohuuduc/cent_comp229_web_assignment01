@@ -31,6 +31,12 @@ Date : 28 Jan 2024
     font-weight: 300;
     font-size: 2rem;
 }
+
+.worksDesc2 {
+    font-weight: 300;
+    font-size: 2rem;
+    font-weight: bold ;
+}
  .worksImgs{
     display: flex;
     align-items: center;

@@ -28,7 +28,7 @@ export default function Project() {
                <a href="https://parainsight.com/category/case-studies/">Parainsight's Case Study</a>
           <br></br>
 
-          <span className="worksDesc"> Below are some personal projects that I have done. This is to demonstrate the ability to using JS and Vite to create a page accoridng to the requirement of Assigment 01 </span> 
+          <span className="worksDesc2"> Below are some personal projects that I have done. This is to demonstrate the ability to using JS and Vite to create a page accoridng to the requirement of Assigment 01 </span> 
 
           <br></br>
           <br></br>
