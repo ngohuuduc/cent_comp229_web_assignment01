@@ -24,12 +24,13 @@ export default function Home() {
 
           <Link><button className="btn"><img src={hire} alt="Hire me" width="100px" height="100px"/></button></Link>
           */}
-          <body> <p>Hello, I&#39;m Duc</p>
-
-               <p>Data Analyst with Finance &amp; Project Management background. Experienced in multinational projects at different scale, complexity &amp; diversity.</p>
-               <p><img src={portrait} class="center" /></p>
+          <body> 
+          <p>Hello, I'm Duc</p>
+                    <p>Previously a Data Analyst with Finance &amp; Project Management background. Experienced in multinational projects at different scale, complexity &amp; diversity Singapore, Indonesia, Malaysia, Vietnam and Philippines.&nbsp;</p>
+                    <p>I&rsquo;m currently exploring North America&nbsp;</p>
+               
            </body>
-          
+           <p><img src={portrait} class="center" /></p>
           </div>
           
      </section>
