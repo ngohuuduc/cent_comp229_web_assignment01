@@ -1,3 +1,10 @@
+/*
+filename: MainRouter.jsx
+Student Name: Duc Ngo
+Student ID : 301221389
+Date : 28 Jan 2024
+*/
+
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Home from './components/Home'
