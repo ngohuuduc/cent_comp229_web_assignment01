@@ -1,3 +1,10 @@
+/*
+filename: about.jsx
+Student Name: Duc Ngo
+Student ID : 301221389
+Date : 28 Jan 2024
+*/
+
 //import BBG from '../src/assets/BBG.jfif';
 import sap from '../src/assets/logo_SAP_S4HANA.jpeg'; // src/assets/
 import tableau from '../src/assets/tableau-logo-150x150.jpg'; // /Users/ducngo/GitHub/cent_comp229_web_assignment01/src/assets/tableau-logo-150x150.jpg

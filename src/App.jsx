@@ -1,3 +1,10 @@
+/*
+filename: App.jsx
+Student Name: Duc Ngo
+Student ID : 301221389
+Date : 28 Jan 2024
+*/
+
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
 //import { ThemeProvider } from '@material-ui/styles';

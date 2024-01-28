@@ -1,3 +1,10 @@
+/*
+filename: project.jsx
+Student Name: Duc Ngo
+Student ID : 301221389
+Date : 28 Jan 2024
+*/
+
 //import project1 from '../src/assets/project1.png';
 //import project2 from '../src/assets/project2.jpg';
 //import project3 from '../src/assets/project3.jpg';
