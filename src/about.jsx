@@ -81,22 +81,22 @@ export default function About() {
           <div className="skillBar">
                <img src={aws} alt="AppDesign" className="skillBarImg" />
                <div className="skillBarText">
-               <h2> Deploy on Cloud Infrastructure  </h2>
-               <p>You can write text related to mobile app development.</p>
+               <h2> Cloud Deployment and Implementation </h2>
+               <p> AWS EC2, Amplify, Lambda, RDS</p>
                </div>
           </div>          
           <div className="skillBar">
                <img src={azure} alt="AppDesign" className="skillBarImg"  />
                <div className="skillBarText">
-               <h2>App Design</h2>
-               <p>You can write text related to mobile app development.</p>
+               <h2>Cloud Deployment and Implementation</h2>
+               <p>Virtual Machines, PostgreSQL, Entra ID , Office 365 and Azure Monitor.</p>
                </div>
           </div>          
           <div className="skillBar">
                <img src={gcp} alt="AppDesign" className="skillBarImg" />
                <div className="skillBarText">
-               <h2>App Design</h2>
-               <p>You can write text related to mobile app development.</p>
+               <h2>Cloud Deployment and Implementation </h2>
+               <p>Cloud Storage, BigQuery and DataPrep.</p>
                </div>
           </div>          
                   
