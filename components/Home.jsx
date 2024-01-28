@@ -26,11 +26,11 @@ export default function Home() {
           */}
           <body> 
           <p>Hello, I'm Duc</p>
-                    <p>Previously a Data Analyst with Finance &amp; Project Management background. Experienced in multinational projects at different scale, complexity &amp; diversity Singapore, Indonesia, Malaysia, Vietnam and Philippines.&nbsp;</p>
-                    <p>I&rsquo;m currently exploring North America&nbsp;</p>
-               
+<p>Previously a Data Analyst with Finance &amp; Project Management background. Experienced in multinational projects at different scale, complexity &amp; diversity Singapore, Indonesia, Malaysia, Vietnam and Philippines.&nbsp;</p>
+<p>I&rsquo;m currently exploring North America as 2-years of gap time after 12 years of non-stop working</p>
+<p><img src={portrait} class="center" /></p>
            </body>
-           <p><img src={portrait} class="center" /></p>
+           
           </div>
           
      </section>

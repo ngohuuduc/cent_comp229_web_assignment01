@@ -11,8 +11,10 @@ export default function About() {
      
      <section id="skill">
          
-          <span className="skillTitle">What I do</span>
-          <span className="skillDesc">I am a skilled and passionate web designer with experience in creating visually appealing and user-friendly websites. I have a strong understanding of design and a keen eye for detail. I am proficient in HTML, CSS, and JavaScript, as well as design software such as Adobe Photoshop and illustrator.</span> 
+          <span className="skillTitle"> Duc Ngo's Experiences</span>
+          <span className="skillDesc">My job consists in helping companies from implementing transactions systems (ERP), data pipelines, data warehouse to data visualization. Furthermore, I'm also experienced in most data-science steps: data pre-processing, application of statistical methods, data visualization and results communication.</span> 
+          <span className='skillDesc2'>  Prior to pursuing Master of Science - Analytic @ Georgia Tech (top 5 Engineering School in US), I had my Master of Finance @ Massey University.
+                    </span>
           <div className="skillBar">
                <img src={ux} alt="UIDesign" className="skillBarImg" />
                <div className="skillBarText">
