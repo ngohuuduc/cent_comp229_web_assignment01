@@ -23,12 +23,12 @@ export default function Project() {
 
           <span className="worksDesc"> All of my professional project are not listed here due to Signed NDA and Employment Contract.
                </span> 
-          <span className="worksDesc">However, my freelance project can be found below
+          <span className="worksDesc">My freelance projects can be found below in case studies below : 
           </span> 
                <a href="https://parainsight.com/category/case-studies/">Parainsight's Case Study</a>
           <br></br>
 
-          <span className="worksDesc">However, my freelance project can be found below </span> 
+          <span className="worksDesc"> Below are some personal projects that I have done. This is to demonstrate the ability to using JS and Vite to create a page accoridng to the requirement of Assigment 01 </span> 
 
           <br></br>
           <br></br>
